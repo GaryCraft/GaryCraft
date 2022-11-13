@@ -11,6 +11,8 @@
 ## What do I code
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaryCraft&langs_count=10&layout=compact&bg_color=-45,8233ff,71e6ba&title_color=fff&text_color=fff)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GaryCraft&theme=modern-lilac2&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **GaryCraft/GaryCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
