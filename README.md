@@ -2,7 +2,7 @@
 
 > Well, I don't know what to tell you
 
-> I'm Gary, a self-taught programmer just trying to make this world a slightly better place
+> ✨I'm Gary✨, a self-taught programmer just trying to make this world a slightly better place
 
 > coming from the lands of México
 
@@ -26,17 +26,3 @@ thank you for being here.
 
 ## A "bit" more details
 ![GitHub Metrics](./github-metrics.svg)
-<!--
-**GaryCraft/GaryCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
