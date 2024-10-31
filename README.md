@@ -2,7 +2,7 @@
 
 > Well, I don't know what to tell you
 
-> ✨I'm Gary✨, a self-taught programmer just trying to make this world a slightly better place
+> ✨I'm Gary✨, a self-taught programmer and biomedical enginnering student just trying to make this world a slightly better place
 
 > coming from the lands of México
 
