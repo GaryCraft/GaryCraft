@@ -17,7 +17,7 @@ thank you for being here.
 
 <!-- [![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garycraft&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garycraft&theme=nightowl&card_width=500&layout=donut&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garycraft&theme=nightowl&layout=donut&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=garycraft&theme=onedark&column=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
